@@ -12,7 +12,8 @@
 На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
 ![alt text](https://github.com/MaratKN/sflt_1/blob/main/img1.jpg)
-![alt text](https://github.com/MaratKN/sflt_1/blob/main/hsrp_advanced_2701.pkt)
+[Схема](https://github.com/MaratKN/sflt_1/blob/main/hsrp_advanced_2701.pkt)
+
 
 ### Задание 2
 Запустите две виртуальные машины Linux, установите и настройте сервис Keepalived как в лекции, используя пример конфигурационного файла.
